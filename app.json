@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "AL MASLAMANI",
+    "slug": "al-maslamani",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.almaslamani.services"
+    }
+  }
+}
